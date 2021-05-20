@@ -1,0 +1,463 @@
+How many players?
+2
+
+Heads:
+1: 8D (1)
+
+Player 1: 53 (53 draw, 0 discard)
+Player 2: 54 (54 draw, 0 discard)
+
+Player 2, it is your turn
+0
+
+Heads:
+1: 8D (1)
+
+Player 1: 53 (53 draw, 0 discard)
+Player 2: 53 (53 draw, 0 discard) + 1 in hand, 0 remaining, 0 in reserve
+
+Player 2, you are holding a QS. Your move?
+0
+Invalid input, please try again.
+Player 2, you are holding a QS. Your move?
+2
+Player 2, you are holding a QS. Your move?
+1
+
+Heads:
+2: 5S (1)
+3: 10D (1)
+
+Player 1: 53 (53 draw, 0 discard)
+Player 2: 53 (51 draw, 2 discard)
+
+Player 1, it is your turn
+
+
+Heads:
+2: 5S (1)
+3: 10D (1)
+
+Player 1: 52 (52 draw, 0 discard) + 1 in hand, 1 remaining, 0 in reserve
+Player 2: 53 (51 draw, 2 discard)
+
+Player 1, you are holding a 4D. Your move?
+2
+
+Heads:
+2: 4D (2)
+3: 10D (1)
+
+Player 1: 51 (51 draw, 0 discard) + 1 in hand, 0 remaining, 0 in reserve
+Player 2: 53 (51 draw, 2 discard)
+
+Player 1, you are holding a 3H. Your move?
+3
+
+Heads:
+2: 4D (2)
+3: 3H (2)
+
+Player 1: 51 (51 draw, 0 discard)
+Player 2: 53 (51 draw, 2 discard)
+
+Player 2, it is your turn
+
+
+Heads:
+2: 4D (2)
+3: 3H (2)
+
+Player 1: 51 (51 draw, 0 discard)
+Player 2: 52 (50 draw, 2 discard) + 1 in hand, 1 remaining, 0 in reserve
+
+Player 2, you are holding a 10H. Your move?
+0
+
+Heads:
+2: 4D (2)
+3: 3H (2)
+
+Player 1: 51 (51 draw, 0 discard)
+Player 2: 51 (49 draw, 2 discard) + 1 in hand, 0 remaining, 1 in reserve
+
+Player 2, you are holding a QH. Your move?
+0
+Player 2, you are holding a 10H. Your move?
+0
+Invalid input, please try again.
+Player 2, you are holding a 10H. Your move?
+3
+Invalid input, please try again.
+Player 2, you are holding a 10H. Your move?
+2
+
+Heads:
+3: 3H (2)
+4: QH (1)
+5: 6S (1)
+
+Player 1: 51 (51 draw, 0 discard)
+Player 2: 53 (48 draw, 5 discard)
+
+Player 1, it is your turn
+
+
+Heads:
+3: 3H (2)
+4: QH (1)
+5: 6S (1)
+
+Player 1: 50 (50 draw, 0 discard) + 1 in hand, 2 remaining, 0 in reserve
+Player 2: 53 (48 draw, 5 discard)
+
+Player 1, you are holding a 7S. Your move?
+3
+Invalid input, please try again.
+Player 1, you are holding a 7S. Your move?
+
+Invalid input, please try again.
+Player 1, you are holding a 7S. Your move?
+3
+Invalid input, please try again.
+Player 1, you are holding a 7S. Your move?
+0
+
+Heads:
+3: 3H (2)
+4: QH (1)
+5: 6S (1)
+
+Player 1: 49 (49 draw, 0 discard) + 1 in hand, 1 remaining, 1 in reserve
+Player 2: 53 (48 draw, 5 discard)
+
+Player 1, you are holding a QD. Your move?
+4
+
+Heads:
+3: 3H (2)
+4: QD (2)
+5: 6S (1)
+
+Player 1: 50 (50 draw, 0 discard)
+Player 2: 53 (48 draw, 5 discard)
+
+Player 2, it is your turn
+
+
+Heads:
+3: 3H (2)
+4: QD (2)
+5: 6S (1)
+
+Player 1: 50 (50 draw, 0 discard)
+Player 2: 52 (47 draw, 5 discard) + 1 in hand, 2 remaining, 0 in reserve
+
+Player 2, you are holding a KH. Your move?
+0
+
+Heads:
+3: 3H (2)
+4: QD (2)
+5: 6S (1)
+
+Player 1: 50 (50 draw, 0 discard)
+Player 2: 51 (46 draw, 5 discard) + 1 in hand, 1 remaining, 1 in reserve
+
+Player 2, you are holding a 8D. Your move?
+4
+
+Heads:
+3: 3H (2)
+4: 8D (3)
+5: 6S (1)
+
+Player 1: 50 (50 draw, 0 discard)
+Player 2: 50 (45 draw, 5 discard) + 1 in hand, 0 remaining, 1 in reserve
+
+Player 2, you are holding a AC. Your move?
+4
+
+Heads:
+3: 3H (2)
+4: AC (4)
+5: 6S (1)
+
+Player 1: 50 (50 draw, 0 discard)
+Player 2: 51 (46 draw, 5 discard)
+
+Player 1, it is your turn
+
+
+Heads:
+3: 3H (2)
+4: AC (4)
+5: 6S (1)
+
+Player 1: 49 (49 draw, 0 discard) + 1 in hand, 2 remaining, 0 in reserve
+Player 2: 51 (46 draw, 5 discard)
+
+Player 1, you are holding a 7S. Your move?
+0
+
+Heads:
+3: 3H (2)
+4: AC (4)
+5: 6S (1)
+
+Player 1: 48 (48 draw, 0 discard) + 1 in hand, 1 remaining, 1 in reserve
+Player 2: 51 (46 draw, 5 discard)
+
+Player 1, you are holding a JH. Your move?
+4
+
+Heads:
+3: 3H (2)
+4: JH (5)
+5: 6S (1)
+
+Player 1: 47 (47 draw, 0 discard) + 1 in hand, 0 remaining, 1 in reserve
+Player 2: 51 (46 draw, 5 discard)
+
+Player 1, you are holding a 3S. Your move?
+4
+
+Heads:
+3: 3H (2)
+4: 3S (6)
+5: 6S (1)
+
+Player 1: 48 (48 draw, 0 discard)
+Player 2: 51 (46 draw, 5 discard)
+
+Player 2, it is your turn
+
+
+Heads:
+3: 3H (2)
+4: 3S (6)
+5: 6S (1)
+
+Player 1: 48 (48 draw, 0 discard)
+Player 2: 50 (45 draw, 5 discard) + 1 in hand, 2 remaining, 0 in reserve
+
+Player 2, you are holding a KH. Your move?
+0
+
+Heads:
+3: 3H (2)
+4: 3S (6)
+5: 6S (1)
+
+Player 1: 48 (48 draw, 0 discard)
+Player 2: 49 (44 draw, 5 discard) + 1 in hand, 1 remaining, 1 in reserve
+
+Player 2, you are holding a KD. Your move?
+6
+Player 2, you are holding a KD. Your move?
+3
+
+Heads:
+4: 3S (6)
+5: 6S (1)
+6: KH (1)
+7: 6C (1)
+
+Player 1: 48 (48 draw, 0 discard)
+Player 2: 51 (43 draw, 8 discard)
+
+Player 1, it is your turn
+
+
+Heads:
+4: 3S (6)
+5: 6S (1)
+6: KH (1)
+7: 6C (1)
+
+Player 1: 47 (47 draw, 0 discard) + 1 in hand, 3 remaining, 0 in reserve
+Player 2: 51 (43 draw, 8 discard)
+
+Player 1, you are holding a 7S. Your move?
+0
+
+Heads:
+4: 3S (6)
+5: 6S (1)
+6: KH (1)
+7: 6C (1)
+
+Player 1: 46 (46 draw, 0 discard) + 1 in hand, 2 remaining, 1 in reserve
+Player 2: 51 (43 draw, 8 discard)
+
+Player 1, you are holding a 4H. Your move?
+5
+
+Heads:
+4: 3S (6)
+5: 4H (2)
+6: KH (1)
+7: 6C (1)
+
+Player 1: 45 (45 draw, 0 discard) + 1 in hand, 1 remaining, 1 in reserve
+Player 2: 51 (43 draw, 8 discard)
+
+Player 1, you are holding a AD. Your move?
+6
+
+Heads:
+4: 3S (6)
+5: 4H (2)
+6: AD (2)
+7: 6C (1)
+
+Player 1: 44 (44 draw, 0 discard) + 1 in hand, 0 remaining, 1 in reserve
+Player 2: 51 (43 draw, 8 discard)
+
+Player 1, you are holding a 7C. Your move?
+6
+
+Heads:
+4: 3S (6)
+5: 4H (2)
+6: 7C (3)
+7: 6C (1)
+
+Player 1: 45 (45 draw, 0 discard)
+Player 2: 51 (43 draw, 8 discard)
+
+Player 2, it is your turn
+
+
+Heads:
+4: 3S (6)
+5: 4H (2)
+6: 7C (3)
+7: 6C (1)
+
+Player 1: 45 (45 draw, 0 discard)
+Player 2: 50 (42 draw, 8 discard) + 1 in hand, 3 remaining, 0 in reserve
+
+Player 2, you are holding a 2S. Your move?
+0
+
+Heads:
+4: 3S (6)
+5: 4H (2)
+6: 7C (3)
+7: 6C (1)
+
+Player 1: 45 (45 draw, 0 discard)
+Player 2: 49 (41 draw, 8 discard) + 1 in hand, 2 remaining, 1 in reserve
+
+Player 2, you are holding a Joker. Your move?
+5
+Joker value?
+5
+Invalid input, please try again.
+Player 2, you are holding a Joker. Your move?
+6
+Joker value?
+A
+
+Heads:
+4: 3S (6)
+5: 4H (2)
+6: AJ (4)
+7: 6C (1)
+
+Player 1: 45 (45 draw, 0 discard)
+Player 2: 48 (40 draw, 8 discard) + 1 in hand, 1 remaining, 1 in reserve
+
+Player 2, you are holding a 6C. Your move?
+0
+Player 2, you are holding a 2S. Your move?
+6
+
+Heads:
+4: 3S (6)
+5: 4H (2)
+6: 2S (5)
+7: 6C (1)
+
+Player 1: 45 (45 draw, 0 discard)
+Player 2: 47 (39 draw, 8 discard) + 1 in hand, 0 remaining, 1 in reserve
+
+Player 2, you are holding a 9C. Your move?
+0
+Player 2, you are holding a 6C. Your move?
+7
+
+Heads:
+4: 3S (6)
+5: 4H (2)
+6: 2S (5)
+7: 6C (2)
+
+Player 1: 45 (45 draw, 0 discard)
+Player 2: 48 (40 draw, 8 discard)
+
+Player 1, it is your turn
+
+
+Heads:
+4: 3S (6)
+5: 4H (2)
+6: 2S (5)
+7: 6C (2)
+
+Player 1: 44 (44 draw, 0 discard) + 1 in hand, 3 remaining, 0 in reserve
+Player 2: 48 (40 draw, 8 discard)
+
+Player 1, you are holding a 7S. Your move?
+0
+
+Heads:
+4: 3S (6)
+5: 4H (2)
+6: 2S (5)
+7: 6C (2)
+
+Player 1: 43 (43 draw, 0 discard) + 1 in hand, 2 remaining, 1 in reserve
+Player 2: 48 (40 draw, 8 discard)
+
+Player 1, you are holding a 5H. Your move?
+7
+
+Heads:
+4: 3S (6)
+5: 4H (2)
+6: 2S (5)
+7: 5H (3)
+
+Player 1: 42 (42 draw, 0 discard) + 1 in hand, 1 remaining, 1 in reserve
+Player 2: 48 (40 draw, 8 discard)
+
+Player 1, you are holding a JD. Your move?
+4
+
+Heads:
+5: 4H (2)
+6: 2S (5)
+7: 5H (3)
+8: 7S (1)
+9: QS (1)
+
+Player 1: 48 (41 draw, 7 discard)
+Player 2: 48 (40 draw, 8 discard)
+
+Player 2, it is your turn
+
+
+Heads:
+5: 4H (2)
+6: 2S (5)
+7: 5H (3)
+8: 7S (1)
+9: QS (1)
+
+Player 1: 48 (41 draw, 7 discard)
+Player 2: 47 (39 draw, 8 discard) + 1 in hand, 4 remaining, 0 in reserve
+
+Player 2, you are holding a 9C. Your move?
+j2348li@ubuntu1804-010:~/cs246/1209/projects/hydra/codeForStudents/executables$ 
